@@ -4,7 +4,7 @@ jobs:
   basic-checks:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 2
       - name: Check if pull request removes benchmarks
@@ -38,7 +38,7 @@ jobs:
     needs: basic-checks
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 2
       - name: Cache Dolmen
