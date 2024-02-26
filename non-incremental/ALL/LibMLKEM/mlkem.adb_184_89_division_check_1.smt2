@@ -393,3 +393,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                 (not (= 457534276108288 0)))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

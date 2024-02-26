@@ -435,3 +435,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                   (to_rep2 (select f1 k))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

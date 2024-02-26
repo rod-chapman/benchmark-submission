@@ -314,3 +314,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                             (bvule o4 ((_ zero_extend 8) #x01)))))))))))))))))
 
 (check-sat)
+(exit)

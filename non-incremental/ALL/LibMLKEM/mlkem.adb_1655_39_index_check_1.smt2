@@ -453,3 +453,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                             (and (<= 0 o1) (<= o1 255)))))))))))))))))))))))))
 
 (check-sat)
+(exit)

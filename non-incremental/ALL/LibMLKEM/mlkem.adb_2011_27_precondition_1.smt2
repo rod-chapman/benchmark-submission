@@ -331,3 +331,4 @@ Publications: https://github.com/awslabs/LibMLKEM
       (and (= (first o) 0) (<= (last o) 2147483646))))))
 
 (check-sat)
+(exit)

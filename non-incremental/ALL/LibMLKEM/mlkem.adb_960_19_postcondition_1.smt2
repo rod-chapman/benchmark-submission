@@ -492,3 +492,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                                    mlkem__zq_to_bits_12__result) #x0D01)))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

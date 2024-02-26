@@ -363,3 +363,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                       (=> (= (to_rep (select b i1)) o1) (not (= 8 0)))))))))))))))
 
 (check-sat)
+(exit)

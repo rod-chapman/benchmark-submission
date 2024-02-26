@@ -536,3 +536,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                           (<= 31 63)))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

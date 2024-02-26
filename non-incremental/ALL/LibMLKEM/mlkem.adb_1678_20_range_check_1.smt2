@@ -1457,3 +1457,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                                     (bvsub k2 #x01)))))))))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

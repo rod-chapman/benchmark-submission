@@ -560,3 +560,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                (select (to_array temp___2690) temp___2691)) true)))))))))))))))))))))))
 
 (check-sat)
+(exit)

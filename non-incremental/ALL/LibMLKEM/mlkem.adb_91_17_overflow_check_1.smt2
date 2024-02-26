@@ -320,3 +320,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                         (=> (in_range o) (in_range (- r1 o))))))))))))))))
 
 (check-sat)
+(exit)

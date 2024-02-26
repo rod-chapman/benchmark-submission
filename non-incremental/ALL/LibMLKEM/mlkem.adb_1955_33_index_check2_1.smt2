@@ -388,3 +388,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                     (<= i2 (last y)))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

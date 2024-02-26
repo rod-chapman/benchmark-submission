@@ -1224,3 +1224,4 @@ Publications: https://github.com/awslabs/LibMLKEM
             (dynamic_property 0 2147483646 (first c) (last c)))))))))
 
 (check-sat)
+(exit)

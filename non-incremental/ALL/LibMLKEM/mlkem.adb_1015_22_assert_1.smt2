@@ -586,3 +586,4 @@ Publications: https://github.com/awslabs/LibMLKEM
             (= (us_attr__init (select r1 temp___2702)) true))))))))
 
 (check-sat)
+(exit)

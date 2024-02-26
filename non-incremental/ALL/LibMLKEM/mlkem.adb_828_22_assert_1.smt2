@@ -304,3 +304,4 @@ Publications: https://github.com/awslabs/LibMLKEM
             (forall ((t3 Int)) (=> (= t3 (div1 t2 1024)) (<= 0 t3))))))))))
 
 (check-sat)
+(exit)

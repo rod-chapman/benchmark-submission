@@ -734,3 +734,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                    (bits_12_to_u16 temp___2639)) #x0D01)))))))))))))))
 
 (check-sat)
+(exit)

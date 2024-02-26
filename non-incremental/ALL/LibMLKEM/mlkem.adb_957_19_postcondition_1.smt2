@@ -310,3 +310,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                       (bvult mlkem__bits_12_to_u16__result #x1000)))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

@@ -1254,3 +1254,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                     (dynamic_property 0 2147483646 0 31))))))))))))
 
 (check-sat)
+(exit)

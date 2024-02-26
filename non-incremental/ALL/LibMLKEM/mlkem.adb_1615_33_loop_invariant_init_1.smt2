@@ -1365,3 +1365,4 @@ Publications: https://github.com/awslabs/LibMLKEM
   (not true))
 
 (check-sat)
+(exit)

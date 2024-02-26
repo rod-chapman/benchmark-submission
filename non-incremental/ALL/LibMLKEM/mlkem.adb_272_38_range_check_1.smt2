@@ -309,3 +309,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                               (in_range (bvurem x #x0D01))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

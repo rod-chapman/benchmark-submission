@@ -1703,3 +1703,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                                     j22)))))))))))))))))))))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

@@ -370,3 +370,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                 (=> (<= 0 t3) (=> (< t3 3329) (in_range_int t3))))))))))))
 
 (check-sat)
+(exit)

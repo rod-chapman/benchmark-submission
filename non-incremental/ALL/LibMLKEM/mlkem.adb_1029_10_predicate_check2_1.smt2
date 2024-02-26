@@ -495,3 +495,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                                     (select (store f2 i2 o4) i3))))))))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

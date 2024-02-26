@@ -482,3 +482,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                               (oadd temp___2254 temp___2255))))))))))))))))))
 
 (check-sat)
+(exit)

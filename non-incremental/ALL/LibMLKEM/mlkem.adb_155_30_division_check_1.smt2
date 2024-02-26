@@ -348,3 +348,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                 (=> (= r11 (* ta1 tb1)) (not (= 3329 0))))))))))))))))))))
 
 (check-sat)
+(exit)

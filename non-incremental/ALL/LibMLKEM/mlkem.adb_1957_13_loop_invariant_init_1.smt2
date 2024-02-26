@@ -358,3 +358,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                             (select (to_array y) j)))))))))))))))))))))))))
 
 (check-sat)
+(exit)

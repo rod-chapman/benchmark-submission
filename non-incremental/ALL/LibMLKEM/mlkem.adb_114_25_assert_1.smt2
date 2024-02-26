@@ -326,3 +326,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                 (=> (= r2 o1) (and (<= 0 r2) (< r2 3329))))))))))))))))))))
 
 (check-sat)
+(exit)

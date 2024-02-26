@@ -704,3 +704,4 @@ Publications: https://github.com/awslabs/LibMLKEM
         (=> (<= 0 2) (and (and (<= 0 0) (<= 0 2)) (and (<= 0 2) (<= 2 2)))))))))
 
 (check-sat)
+(exit)

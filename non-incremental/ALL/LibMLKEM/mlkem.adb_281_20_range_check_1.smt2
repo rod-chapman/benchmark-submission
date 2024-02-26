@@ -192,3 +192,4 @@ Publications: https://github.com/awslabs/LibMLKEM
         (in_range o))))))
 
 (check-sat)
+(exit)

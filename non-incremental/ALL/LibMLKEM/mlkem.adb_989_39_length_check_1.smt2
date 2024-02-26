@@ -548,3 +548,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                         (< (+ (* i 12) 11) (* i 12)))))))))))))))
 
 (check-sat)
+(exit)

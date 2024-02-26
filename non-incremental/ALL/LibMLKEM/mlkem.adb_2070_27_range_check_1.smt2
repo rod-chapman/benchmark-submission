@@ -391,3 +391,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                 (- (+ 0 (+ (length 0 31) (length 0 31))) 1))))))))))))))))))
 
 (check-sat)
+(exit)

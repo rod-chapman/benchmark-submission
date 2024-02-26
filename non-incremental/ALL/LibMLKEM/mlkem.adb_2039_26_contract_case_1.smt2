@@ -377,3 +377,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                 (= (bool_eq q1 0 31 q 0 31) true))))))))))
 
 (check-sat)
+(exit)

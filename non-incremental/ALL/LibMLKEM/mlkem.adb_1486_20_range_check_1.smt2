@@ -311,3 +311,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                 (in_range2 (+ r1 (bv2nat o))))))))))))))))))))
 
 (check-sat)
+(exit)

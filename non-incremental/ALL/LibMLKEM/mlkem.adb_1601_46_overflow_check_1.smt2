@@ -1414,3 +1414,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                         (in_range1 (* o 2)))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

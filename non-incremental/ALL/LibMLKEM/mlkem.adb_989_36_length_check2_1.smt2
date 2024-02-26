@@ -789,3 +789,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                                     temp___25881))))))))))))))))))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

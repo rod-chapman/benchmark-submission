@@ -367,3 +367,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                 (<= usf (last x)))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

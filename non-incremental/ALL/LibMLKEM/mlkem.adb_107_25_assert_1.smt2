@@ -310,3 +310,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                 (and (< (- 3329) r1) (< r1 3329)))))))))))
 
 (check-sat)
+(exit)

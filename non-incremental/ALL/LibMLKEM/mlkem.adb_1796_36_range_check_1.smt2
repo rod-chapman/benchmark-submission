@@ -539,3 +539,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                             (and (<= 0 temp___3155) (<= temp___3155 2)))))))))))))))))
 
 (check-sat)
+(exit)

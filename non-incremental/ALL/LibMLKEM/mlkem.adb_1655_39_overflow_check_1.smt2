@@ -448,3 +448,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                       (=> (= t3 o) (in_range1 (+ j1 len)))))))))))))))))))))))
 
 (check-sat)
+(exit)

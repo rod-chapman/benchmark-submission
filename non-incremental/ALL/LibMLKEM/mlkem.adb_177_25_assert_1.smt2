@@ -369,3 +369,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                           (= r11 0)))))))))))))))))))))))
 
 (check-sat)
+(exit)

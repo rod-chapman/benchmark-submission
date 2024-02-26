@@ -483,3 +483,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                               (in_range2 (to_rep2 (select f1 i)))))))))))))))))))
 
 (check-sat)
+(exit)

@@ -319,3 +319,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                       (in_range (* reduce1 3329))))))))))))))
 
 (check-sat)
+(exit)

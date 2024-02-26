@@ -216,3 +216,4 @@ Publications: https://github.com/awslabs/LibMLKEM
   (<= (+ (+ 0 (ite (= swap true) 1 0)) (ite (not (= swap true)) 1 0)) 1)))
 
 (check-sat)
+(exit)

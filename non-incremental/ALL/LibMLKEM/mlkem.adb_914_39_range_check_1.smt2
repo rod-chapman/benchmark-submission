@@ -397,3 +397,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                               (bvule this_bit3 ((_ zero_extend 8) #x01))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

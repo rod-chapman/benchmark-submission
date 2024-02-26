@@ -402,3 +402,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                 (and (<= (first x) usf) (<= usf (last x))))))))))))))))))))
 
 (check-sat)
+(exit)

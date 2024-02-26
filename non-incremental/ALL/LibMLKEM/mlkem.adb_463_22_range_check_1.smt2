@@ -377,3 +377,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                               (=> (<= 0 i) (and (<= 0 0) (<= i 255)))))))))))))))))))
 
 (check-sat)
+(exit)

@@ -294,3 +294,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                       (bvule r #x0000000000000D01)))))))))))))))))))))
 
 (check-sat)
+(exit)

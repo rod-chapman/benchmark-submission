@@ -335,3 +335,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                       (and (<= (first y) i) (<= i (last y)))))))))))))))
 
 (check-sat)
+(exit)

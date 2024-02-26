@@ -662,3 +662,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                               (and (<= 0 j2) (<= j2 2))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

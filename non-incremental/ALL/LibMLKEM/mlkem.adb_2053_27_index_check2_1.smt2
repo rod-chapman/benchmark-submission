@@ -429,3 +429,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                                     (<= usf 31))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

@@ -314,3 +314,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                     (not (= #x0D01 #x0000)))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

@@ -408,3 +408,4 @@ Publications: https://github.com/awslabs/LibMLKEM
               (and (and (<= 0 0) (<= 0 63)) (and (<= 0 31) (<= 31 63)))))))))))
 
 (check-sat)
+(exit)

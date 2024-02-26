@@ -1473,3 +1473,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                                     (<= (* (* j2 2) len1) 252))))))))))))))))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

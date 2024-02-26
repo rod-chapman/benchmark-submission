@@ -796,3 +796,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                 (= n2 #x06))))))))))))))))))
 
 (check-sat)
+(exit)

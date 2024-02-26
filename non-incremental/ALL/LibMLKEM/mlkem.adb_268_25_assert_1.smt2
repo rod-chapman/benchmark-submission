@@ -303,3 +303,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                             (bvult r5 #x0000000000000D01))))))))))))))))))))))))
 
 (check-sat)
+(exit)

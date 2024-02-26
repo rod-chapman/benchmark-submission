@@ -675,3 +675,4 @@ Publications: https://github.com/awslabs/LibMLKEM
           (and (and (<= 0 32) (<= 32 63)) (and (<= 0 63) (<= 63 63)))))))))
 
 (check-sat)
+(exit)

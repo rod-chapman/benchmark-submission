@@ -270,3 +270,4 @@ Publications: https://github.com/awslabs/LibMLKEM
           (bvule r1 (bvadd #x0000000000000D01 (bvmul (bvudiv (bvmul r1 #x0000002000000000) #x0001A02000000000) #x0000000000000D01)))))))))
 
 (check-sat)
+(exit)

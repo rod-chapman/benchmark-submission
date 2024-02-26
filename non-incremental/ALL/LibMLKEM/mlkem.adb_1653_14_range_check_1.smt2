@@ -427,3 +427,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                   (=> (<= start r238b) (and (<= 0 start) (<= r238b 255)))))))))))))
 
 (check-sat)
+(exit)

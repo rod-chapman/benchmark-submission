@@ -610,3 +610,4 @@ Publications: https://github.com/awslabs/LibMLKEM
             (and (and (<= 0 0) (<= 0 959)) (and (<= 0 959) (<= 959 959))))))))))
 
 (check-sat)
+(exit)

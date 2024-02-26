@@ -655,3 +655,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                     (in_range2 (* usf1 12)))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

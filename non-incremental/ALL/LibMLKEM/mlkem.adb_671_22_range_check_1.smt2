@@ -345,3 +345,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                           (bvule t5 ((_ zero_extend 56) #x01))))))))))))))))
 
 (check-sat)
+(exit)

@@ -375,3 +375,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                             (< r11 (+ (* (div1 r11 3329) 3329) 3329)))))))))))))))))))))))))
 
 (check-sat)
+(exit)

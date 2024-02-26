@@ -286,3 +286,4 @@ Publications: https://github.com/awslabs/LibMLKEM
   (not (=> (in_range1 x) (=> (= x t) (bvult t #x0D01)))))
 
 (check-sat)
+(exit)

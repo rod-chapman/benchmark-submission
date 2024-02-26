@@ -1580,3 +1580,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                                     i2) count3) j1) 1))))))))))))))))))))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

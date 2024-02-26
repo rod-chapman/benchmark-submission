@@ -450,3 +450,4 @@ Publications: https://github.com/awslabs/LibMLKEM
           (< (+ (* i 384) 383) (* i 384))))))))
 
 (check-sat)
+(exit)

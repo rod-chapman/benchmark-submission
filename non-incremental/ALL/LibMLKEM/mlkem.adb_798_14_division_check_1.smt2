@@ -361,3 +361,4 @@ Publications: https://github.com/awslabs/LibMLKEM
           (=> (= t2 (+ (* 3329 (bv2nat y)) 8)) (not (= 16 0)))))))))
 
 (check-sat)
+(exit)

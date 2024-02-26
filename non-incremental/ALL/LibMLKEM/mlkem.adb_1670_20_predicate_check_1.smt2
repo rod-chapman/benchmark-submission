@@ -1384,3 +1384,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                     (= (power 2 i) (power 2 i1)))))))))))))))))))))
 
 (check-sat)
+(exit)

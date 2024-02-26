@@ -861,3 +861,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                                     (<= o3 3071))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

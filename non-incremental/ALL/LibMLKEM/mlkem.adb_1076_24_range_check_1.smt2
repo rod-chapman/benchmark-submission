@@ -443,3 +443,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                               (in_range1 t1)))))))))))))))))
 
 (check-sat)
+(exit)

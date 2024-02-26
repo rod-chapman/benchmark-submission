@@ -463,3 +463,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                   (and (= (first o1) (first o)) (= (last o1) (last o)))))))))))))
 
 (check-sat)
+(exit)

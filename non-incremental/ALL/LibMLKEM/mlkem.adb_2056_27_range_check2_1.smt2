@@ -392,3 +392,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                                     (<= i2 31))))))))))))))))))))))))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

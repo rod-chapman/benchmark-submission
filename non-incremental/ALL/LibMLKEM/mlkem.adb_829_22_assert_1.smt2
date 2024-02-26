@@ -305,3 +305,4 @@ Publications: https://github.com/awslabs/LibMLKEM
               (=> (= t3 (div1 t2 1024)) (=> (<= 0 t3) (< t3 3329)))))))))))
 
 (check-sat)
+(exit)

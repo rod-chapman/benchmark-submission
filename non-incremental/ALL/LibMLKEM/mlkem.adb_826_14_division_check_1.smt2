@@ -302,3 +302,4 @@ Publications: https://github.com/awslabs/LibMLKEM
           (=> (= t2 (+ (* 3329 (bv2nat y)) 512)) (not (= 1024 0)))))))))
 
 (check-sat)
+(exit)

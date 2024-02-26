@@ -510,3 +510,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                                     (select f3 k))))))))))))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

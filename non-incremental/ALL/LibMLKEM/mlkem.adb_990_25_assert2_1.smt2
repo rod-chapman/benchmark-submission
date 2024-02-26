@@ -829,3 +829,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                                     temp___2604)) #x0D01))))))))))))))))))))))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

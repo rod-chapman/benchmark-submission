@@ -1332,3 +1332,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                         (or (= temp___1835 0) (= temp___1835 1)))))))))))))))
 
 (check-sat)
+(exit)

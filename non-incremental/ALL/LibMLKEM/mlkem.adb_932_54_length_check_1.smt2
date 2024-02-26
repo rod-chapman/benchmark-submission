@@ -470,3 +470,4 @@ Publications: https://github.com/awslabs/LibMLKEM
             (< (- (* (+ i 1) 320) 1) (* i 320)))))))))
 
 (check-sat)
+(exit)

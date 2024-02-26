@@ -671,3 +671,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                     31))) 1)))))))))))
 
 (check-sat)
+(exit)

@@ -1405,3 +1405,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                     (= (* count1 len1) 128))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

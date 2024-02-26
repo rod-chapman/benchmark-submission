@@ -926,3 +926,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                                     127))) 1))))))))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

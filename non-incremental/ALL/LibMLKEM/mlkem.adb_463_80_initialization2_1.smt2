@@ -542,3 +542,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                                     (select r3 usf)) true)))))))))))))))))))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

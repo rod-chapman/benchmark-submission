@@ -662,3 +662,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                             (* usf1 12))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

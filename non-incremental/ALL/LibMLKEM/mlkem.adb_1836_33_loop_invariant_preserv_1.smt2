@@ -757,3 +757,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                 (= n2 ((_ int2bv 8) i2)))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

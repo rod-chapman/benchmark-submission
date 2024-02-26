@@ -1460,3 +1460,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                                     (bvule k2 #x7F)))))))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

@@ -502,3 +502,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                             (<= j1 255))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

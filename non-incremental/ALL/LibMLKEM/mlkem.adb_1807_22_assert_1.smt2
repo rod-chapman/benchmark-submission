@@ -714,3 +714,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                          (select (select (select r1 temp___3308) temp___3310) temp___3312)) true))))))))))))
 
 (check-sat)
+(exit)

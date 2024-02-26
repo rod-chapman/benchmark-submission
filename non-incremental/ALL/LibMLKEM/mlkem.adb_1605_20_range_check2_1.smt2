@@ -1658,3 +1658,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                                     (bvadd k4 #x01))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

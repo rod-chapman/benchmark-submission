@@ -842,3 +842,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                                     (* usf2 12))))))))))))))))))))))))))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

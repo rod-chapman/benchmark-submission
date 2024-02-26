@@ -379,3 +379,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                   (select (mlkem__bytedecode1__f__aggregate_def #x0000) i)))))))))))
 
 (check-sat)
+(exit)

@@ -339,3 +339,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                       (in_range_int r2)))))))))))))))))))))
 
 (check-sat)
+(exit)

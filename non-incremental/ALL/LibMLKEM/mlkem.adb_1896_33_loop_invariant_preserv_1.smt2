@@ -743,3 +743,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                                         (= n3 (bvadd #x03 ((_ int2bv 8) i2))))))))))))))))))))))))))))))))
 
 (check-sat)
+(exit)

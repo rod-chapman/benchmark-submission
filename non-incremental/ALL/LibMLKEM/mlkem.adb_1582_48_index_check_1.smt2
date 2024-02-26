@@ -443,3 +443,4 @@ Publications: https://github.com/awslabs/LibMLKEM
                                 (=> (in_range1 o) (and (<= 0 o) (<= o 255))))))))))))))))))))
 
 (check-sat)
+(exit)
