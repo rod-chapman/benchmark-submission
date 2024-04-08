@@ -40,7 +40,7 @@ and(); # entry point
 |)
 (set-info :license "https://creativecommons.org/licenses/by/4.0/")
 (set-info :category "industrial")
-(set-info :status sat)
+(set-info :status unknown)
 
 (declare-fun |(12,4,25)| () Real)
 (declare-fun |(9,2,39)| () Real)
