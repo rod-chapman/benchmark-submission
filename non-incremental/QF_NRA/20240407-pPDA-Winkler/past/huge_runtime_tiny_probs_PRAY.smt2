@@ -12,7 +12,7 @@ Publications:
 This benchmark encodes positive almost sure termination (PAST; reaching the empty stack in finite expected time) of the probabilistic pushdown automaton (pPDA) from Fig. 3 in [1] with n=10.
 Even though the pPDA has only 3 states and 12 stack symbols, it runs approximately 2^(2^n) = 2^1024 steps on average before it reaches the empty stack. This effect is caused by certain reachability probabilities in the pPDA which are very small, cf. [1].
 
-The SMT formula results from applying Theorem 8 from [1]. The SMT formula is SAT iff the automaton is PAST.
+The SMT formula results from applying Theorem 8 from [1] (with equalities instead of inequalities). The SMT formula is SAT iff the automaton is PAST.
 
 |)
 (set-info :license "https://creativecommons.org/licenses/by/4.0/")
