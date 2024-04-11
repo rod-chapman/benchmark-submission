@@ -40,4 +40,3 @@ Simple word equation with regular constraints.
 
 (check-sat)
 (exit)
-

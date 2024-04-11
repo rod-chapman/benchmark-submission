@@ -24,3 +24,4 @@ This benchmark is based on the Lyndon and Schützenberger theorem on word equati
 (assert (str.in_re A (re.+ (str.to_re "a"))))
 (check-sat)
 (exit)
+
