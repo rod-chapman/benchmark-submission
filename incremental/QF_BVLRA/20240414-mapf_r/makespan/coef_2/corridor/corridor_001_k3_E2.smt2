@@ -11,7 +11,6 @@ The benchmarks mimic MAPF problems with continuous time where the objective time
 |)
 (set-info :license "https://creativecommons.org/licenses/by/4.0/")
 (set-info :category "industrial")
-(set-option :produce-models true)
 (declare-const objtime Real)
 (declare-const oo Real)
 (declare-const eps Real)
@@ -1302,5 +1301,4 @@ The benchmarks mimic MAPF problems with continuous time where the objective time
 (assert (or (<= (+ A1.atime<3> (+ A1.wtime<3> (+ (* (- 1) A2.atime<4>) (* (- 1) A2.wtime<4>)))) 0) (or (<= 1 (+ A1.atime<3> (+ (* (- 1) A2.atime<4>) (* (- 1) A2.wtime<4>)))) (or (not (= A2.V<5> (_ bv0 16))) (or (not (= A1.V<3> (_ bv1 16))) (not (= A2.V<4> (_ bv1 16))))))))
 (set-info :status sat)
 (check-sat)
-(get-value (objtime))
 (exit)
