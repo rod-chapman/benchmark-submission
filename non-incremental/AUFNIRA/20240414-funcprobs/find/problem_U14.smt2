@@ -24,4 +24,3 @@ Original source: CPSM-2009-1
 
 (check-sat)
 (exit)
-(get-model)

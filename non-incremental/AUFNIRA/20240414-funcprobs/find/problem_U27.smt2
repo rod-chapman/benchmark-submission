@@ -28,4 +28,3 @@ Original source: IMOSC-1992-A2
 
 (check-sat)
 (exit)
-(get-model)

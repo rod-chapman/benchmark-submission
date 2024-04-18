@@ -23,4 +23,3 @@ Original source: Romania-2009
 
 (check-sat)
 (exit)
-(get-model)

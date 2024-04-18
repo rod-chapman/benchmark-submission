@@ -22,4 +22,3 @@ Problem number: Úloha 5
 
 (check-sat)
 (exit)
-(get-model)

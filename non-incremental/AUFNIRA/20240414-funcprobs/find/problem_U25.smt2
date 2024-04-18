@@ -23,4 +23,3 @@ Original source: BMO-1997-4, BMO-2000-1
 
 (check-sat)
 (exit)
-(get-model)

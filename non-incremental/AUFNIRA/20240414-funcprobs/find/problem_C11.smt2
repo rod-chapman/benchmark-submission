@@ -38,4 +38,3 @@ Problem number: Cvičení 11
 
 (check-sat)
 (exit)
-(get-model)

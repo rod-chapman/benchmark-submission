@@ -39,4 +39,3 @@ Problem number: Úloha 29
 
 (check-sat)
 (exit)
-(get-model)

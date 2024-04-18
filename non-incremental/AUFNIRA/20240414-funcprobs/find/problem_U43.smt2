@@ -42,4 +42,3 @@ Original source: IMOSC-2003-A5
 
 (check-sat)
 (exit)
-(get-model)

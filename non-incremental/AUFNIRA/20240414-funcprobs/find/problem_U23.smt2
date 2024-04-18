@@ -23,4 +23,3 @@ Original source: PraSe-22-7-4
 
 (check-sat)
 (exit)
-(get-model)

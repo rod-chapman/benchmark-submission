@@ -24,4 +24,3 @@ Original source: CSMO-60-A-III-6
 
 (check-sat)
 (exit)
-(get-model)

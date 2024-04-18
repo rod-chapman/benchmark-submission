@@ -26,4 +26,3 @@ Original source: APMO-2011
 
 (check-sat)
 (exit)
-(get-model)

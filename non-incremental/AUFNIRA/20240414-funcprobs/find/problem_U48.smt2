@@ -23,4 +23,3 @@ Original source: MEMO-2008
 
 (check-sat)
 (exit)
-(get-model)

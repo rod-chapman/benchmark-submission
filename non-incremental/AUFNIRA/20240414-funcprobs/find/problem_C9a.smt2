@@ -22,4 +22,3 @@ Original source: C9a
 
 (check-sat)
 (exit)
-(get-model)

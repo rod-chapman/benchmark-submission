@@ -24,4 +24,3 @@ Original source: IMO-1990-4
 
 (check-sat)
 (exit)
-(get-model)

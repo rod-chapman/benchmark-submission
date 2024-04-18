@@ -23,4 +23,3 @@ Original source: MFF-UK-solving-seminar-2008
 
 (check-sat)
 (exit)
-(get-model)

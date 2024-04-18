@@ -40,4 +40,3 @@ Original source: PraSe-27-7-5
 
 (check-sat)
 (exit)
-(get-model)

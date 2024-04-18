@@ -23,4 +23,3 @@ Original source: Iran-1999
 
 (check-sat)
 (exit)
-(get-model)

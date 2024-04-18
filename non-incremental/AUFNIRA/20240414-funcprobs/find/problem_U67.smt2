@@ -26,4 +26,3 @@ Original source: Spain-2006
 
 (check-sat)
 (exit)
-(get-model)

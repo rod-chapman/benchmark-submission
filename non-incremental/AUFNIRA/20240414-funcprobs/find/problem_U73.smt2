@@ -44,4 +44,3 @@ Original source: PraSe-18-6-7
 
 (check-sat)
 (exit)
-(get-model)

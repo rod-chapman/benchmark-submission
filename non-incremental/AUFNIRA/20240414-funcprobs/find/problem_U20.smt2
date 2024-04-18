@@ -23,4 +23,3 @@ Original source: Belarus-1997
 
 (check-sat)
 (exit)
-(get-model)

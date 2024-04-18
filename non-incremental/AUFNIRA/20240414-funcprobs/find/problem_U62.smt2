@@ -23,4 +23,3 @@ Original source: USAMO-2002
 
 (check-sat)
 (exit)
-(get-model)

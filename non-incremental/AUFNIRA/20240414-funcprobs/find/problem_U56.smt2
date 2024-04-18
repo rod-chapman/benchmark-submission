@@ -23,4 +23,3 @@ Original source: BalticWay-2010-5
 
 (check-sat)
 (exit)
-(get-model)

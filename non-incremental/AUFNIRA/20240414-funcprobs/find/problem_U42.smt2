@@ -23,4 +23,3 @@ Original source: IMOSC-2002-A1
 
 (check-sat)
 (exit)
-(get-model)

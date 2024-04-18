@@ -24,4 +24,3 @@ Original source: IMOSC-2000-A3
 
 (check-sat)
 (exit)
-(get-model)

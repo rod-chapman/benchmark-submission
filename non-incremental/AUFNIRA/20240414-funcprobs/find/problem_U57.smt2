@@ -25,4 +25,3 @@ Original source: BalticWay-2011-6
 
 (check-sat)
 (exit)
-(get-model)

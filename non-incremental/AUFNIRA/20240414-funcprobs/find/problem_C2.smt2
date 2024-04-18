@@ -22,4 +22,3 @@ Problem number: Cvičení 2
 
 (check-sat)
 (exit)
-(get-model)

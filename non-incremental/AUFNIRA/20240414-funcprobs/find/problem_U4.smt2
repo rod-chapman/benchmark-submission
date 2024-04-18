@@ -28,4 +28,3 @@ Problem number: Úloha 4
 
 (check-sat)
 (exit)
-(get-model)

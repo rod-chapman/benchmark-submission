@@ -23,4 +23,3 @@ Original source: Vietnam-2005
 
 (check-sat)
 (exit)
-(get-model)

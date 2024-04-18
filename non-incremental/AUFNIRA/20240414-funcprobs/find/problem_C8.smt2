@@ -25,4 +25,3 @@ Original source: IMOSC-1979-26
 
 (check-sat)
 (exit)
-(get-model)
