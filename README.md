@@ -17,7 +17,7 @@ a file `non-incremental/UF/20211018-Test/test.smt2` the two options are:
 
 ```bash
 $ ./quick-check.sh non-incremental/UF/20211018-Test/test.smt2
-$ dolmen -i smt2 --check-headers=true --header-lang-version=2.6 non-incremental/UF/20211018-Test/test.smt2
+$ dolmen -i smt2 --check-headers=true --header-lang-version=2.6 --ext=bvconv non-incremental/UF/20211018-Test/test.smt2
 ```
 
 The `quick-check.sh` uses grep and other shell tools to perform some
@@ -132,7 +132,7 @@ The benchmarks are then separated according to their logic.
 
 The `<set-name>` is either `<date>-<application>-<submitter>`,
 `<date>-<application>`, or `<date>-<submitter>`.  The `<data>`
-is written as `YYYYMMDD`. 
+is written as `YYYYMMDD`.
 
 Benchmarks can be nested within a deeper directory structure below the
 set directory.  The nesting should be sensible.
@@ -146,4 +146,3 @@ The benchmark library is co-maintained by:
 - Aina Niemetz <niemetz@cs.stanford.edu>
 - Mathias Preiner <preiner@cs.stanford.edu>
 - Hans-Jörg Schurr <hans-joerg@schurr.at>
-
