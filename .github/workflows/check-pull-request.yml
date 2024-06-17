@@ -50,18 +50,17 @@ jobs:
       - name: Install dolmen
         run: |
           if [ "[${{steps.dolmen-cache.outputs.cache-hit}}]" = "[]" ]; then
-            wget https://github.com/Gbury/dolmen/releases/download/v0.9/dolmen-linux-amd64
+            wget https://github.com/Gbury/dolmen/releases/download/v0.10/dolmen-linux-amd64
           fi
           chmod +x ./dolmen-linux-amd64
       - name: Check files
         run: |
           status=0
           for added_file in `git diff --diff-filter=ACRM --name-only HEAD^1 HEAD`; do
-            ./dolmen-linux-amd64 -i smt2 --strict=false --check-headers=true --header-lang-version=2.6 ${added_file}
+            ./dolmen-linux-amd64 -i smt2 --strict=false --check-headers=true --header-lang-version=2.6 --ext=bvconv ${added_file}
             if [ $? -ne 0 ] ;  then
               echo "Dolmen reported problems with ${added_file}."
               status=1
             fi
           done
           exit $status
-
